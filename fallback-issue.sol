@@ -1,4 +1,4 @@
-contract Bank {
+/*contract Bank {
     uint public a;
     uint public b;
 
@@ -36,3 +36,4 @@ contract _MAIN_ {
         assert(a != 4);
     }
 } 
+*/
