@@ -1,9 +1,4 @@
 //ibaVoter
-
-/**
- *Submitted for verification at Etherscan.io on 2018-08-23
-*/
-
 // pragma solidity ^0.4.8;
 
 contract ibaVoter {
